@@ -1,6 +1,6 @@
 # PowerBi-Tutorial
 
-##PURPOSE OF PROJECT  
+## PURPOSE OF PROJECT  
   
  * The purpose of this project was to furhter understand powerBI.
  * This was accomplished by following a tutorial to understand the basics off data cleaning and some charts in PowerBI.
